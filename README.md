@@ -3,7 +3,7 @@ Această aplicație este creată pentru a îmbunătăți transportul în zonele 
 
 Funcționalități principale:
 
-Aplicația oferă înregistrare și autentificare pentru pasageri și șoferi. Șoferii pot posta cursele disponibile, iar pasagerii le pot vedea și rezerva locuri. Sunt incluse notificări push care anunță orice modificare sau întârziere. Poți urmări autobuzele pe hartă în timp real. Interfața este simplă, adaptată pentru telefon, și răspunde rapid la comenzi.
+Aplicația oferă înregistrare și autentificare pentru pasageri și șoferi. Șoferii pot posta cursele disponibile, iar pasagerii le pot vedea și rezerva locuri. Poți urmări autobuzele pe hartă în timp real. Interfața este simplă, adaptată pentru telefon, și răspunde rapid la comenzi.
 
 Îmbunătățiri planificate:
 
